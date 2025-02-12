@@ -1,0 +1,52 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# NetBeans project files
+nbproject/
+
+# VS Code workspace settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Environment files
+.env
+
+# Spring Boot specific
+*.jar
+*.war
+
+# Local dependencies
+lib/
+
+# Temporary files
+*.swp
+*.swo
+
+# Git specific
+.git/
+
+# Logs and database files
+*.log
+*.sqlite
